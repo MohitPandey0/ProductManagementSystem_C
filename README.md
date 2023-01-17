@@ -1,2 +1,2 @@
-# BCA-Project
-COLLEGE project C/C++
+# BCA Project
+Product Management Using C
